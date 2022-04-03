@@ -41,7 +41,7 @@ A DAO member has 100 ILV. Candidates A, B, C, and D are running. The DAO member 
 
 # Rationale
 
-This allows DAO members to better express their preferences for who should represent the DAO on the Council; DAO members gain the ability to express a preference for mulCandidates that have wide support at the DAO but few first-choice votes (e.g., everyone's second choice) have a chance at winning a seat. 
+This allows DAO members to better express their preferences for who should represent the DAO on the Council; DAO members gain the ability to express a preference for multiple candidates, including a full council, and candidates that have wide support at the DAO but few first-choice votes (e.g., everyone's second choice) have a chance at winning a seat, which would be benificial to ensure the Council makes decisions that represent the DAO overall. 
 
 # Test Cases
 
