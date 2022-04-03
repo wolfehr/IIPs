@@ -22,7 +22,7 @@ Update Illuvium Council elections to use multipreference quadratic voting.
 
 * Only allowing one candidate leads to a council that doesn't necessarily represent the DAOs preference by hiding the preferences for non-first choice candidates. For example, if Person A were everyone's second choice, they would get no votes despite everyone in the DAO believing they deserved a seat on the Council (given they only picked one person for a five-seat Council). 
 * DAO members can express preferences for the full council (e.g., they can vote for five candidates). 
-* It gives more voting power to those who chose to spread their votes amongst multiple candidates and decreases the power of whale'sto throw all their weight behind one candidate and get them on the Council.
+* It gives more voting power to those who chose to spread their votes amongst multiple candidates and decreases the power of whales to throw all their weight behind one candidate and get them on the Council.
 
 
 # Specification
