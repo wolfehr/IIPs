@@ -33,7 +33,7 @@ Update Illuvium Council elections to use multipreference quadratic voting.
 
 ### Example
 
-A DAO member has 100 ILV. Candidates A, B, C, and D are running. The DAO member could case their votes as follows.
+A DAO member has 100 ILV. Candidates A, B, C, and D are running. The DAO member could cast their votes as follows.
 
 * Candidate A = 10 vILV (10^2 = 100)
 * Candidate A = 5 vILV; Candidate B = 5 vILV; Candidate C = 5 vILV; Candidate D = 5 vILV (5^2 * 4 = 100)
