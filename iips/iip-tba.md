@@ -10,7 +10,9 @@ updated: TBD
 
 # Simple Summary
 
-Allow DAO members to vote for muliple candidates during Illuvium Council elections in order to allow them to better express their preferences about who should be on the Council. The voting weight for each candidate would be the square root of the number of ILV the DAO member assigns to each candidate.
+Allow DAO members to vote for muliple candidates during Illuvium Council elections. The voting weight for each candidate would be the square root of the number of ILV the DAO member assigns to each candidate. This would allow DAO members to better express their preferences about who should be on the Council.
+
+There are no other changes to Council elections. The only change is to how DAO members can allocate their votes.
 
 # Abstract
 
