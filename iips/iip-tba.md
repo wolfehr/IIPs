@@ -30,7 +30,6 @@ Update Illuvium Council elections to use multipreference quadratic voting.
 * DAO members have votes equal to the ILV holdings in wallets they control.
 * DAO members can spread their vote over any number of candidates.
 * The votes given to a candidate when a DAO member allocates ILV to them will be equal to the square root of the number of ILV allocated. 
-* The core team is accountable for determining how to elect their representative. They do not need approval from the DAO on their method of electing a representative.
 
 ### Example
 
